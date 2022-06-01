@@ -1,7 +1,7 @@
 # Conditional Execution
 
-hrs = input("Enter Hours:")
-h = float(hrs)
+hours = input("Enter Hours:")
+h = float(hours)
 time = input("enter the pay per hour:")
 t = float(time)
 if h <= 40 :
